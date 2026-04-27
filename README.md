@@ -1,4 +1,4 @@
-# LLM-Powered O-RADS Ultrasound Classification
+# LLM-Based O-RADS Ultrasound Classification
 
 This repository provides a comprehensive automated pipeline for O-RADS (Ovarian-Adnexal Reporting and Data System) ultrasound risk stratification of ovarian and adnexal lesions. By integrating Large Language Models (LLMs) for feature extraction with a deterministic clinical rule engine, the system aims to improve the accuracy, efficiency, and reproducibility of O-RADS ultrasound classification.
 
