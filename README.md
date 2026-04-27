@@ -78,13 +78,8 @@ This file contains:
 Important Notes
 ---
 
-### 1. Model Versioning
-
 Before execution, ensure the `MODEL_NAME` parameter is correctly configured. Due to rapid API evolution, always use actively supported model versions (e.g., prefer `gpt-5.2` over deprecated endpoints).
 
-### 2. Language Adaptability
-
-Although optimized for Chinese radiology reports (including domain-specific terminology), the system architecture is fully language-agnostic. English reports can be supported by modifying the prompt templates accordingly.
 
 Contact information
 ---
