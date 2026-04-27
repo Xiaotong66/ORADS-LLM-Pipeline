@@ -26,13 +26,13 @@ Quick Start Guide
 
 ### 1. Environment Setup
 
-1. Ensure Python ≥ 3.8 is installed.
+(1) Ensure Python ≥ 3.8 is installed.
 
-2. Install dependencies:
+(2) Install dependencies:
 
    ```pip install -r requirements.txt```
 
-3. Configure API keys via environment variables:
+(3) Configure API keys via environment variables:
 
    Linux / macOS:
 
